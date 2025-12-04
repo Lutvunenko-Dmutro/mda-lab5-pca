@@ -73,7 +73,7 @@ pca_dashboard/
 1.  **Клонуйте репозиторій:**
 
     ```bash
-    git clone [https://github.com/your-username/mda-lab5-pca.git](https://github.com/your-username/mda-lab5-pca.git)
+    git clone https://github.com/Lutvunenko-Dmutro/mda-lab5-pca?tab=readme-ov-file
     cd mda-lab5-pca
     ```
 
